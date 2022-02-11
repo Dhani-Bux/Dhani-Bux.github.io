@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: hamdev.me
+Token: 2bbd9d9c0a4c8f7df54d870b630cec433743a6d7b757c26b9380c88256f99164
